@@ -1,6 +1,6 @@
 <h1 align="center">jamie the coder</h1>
 <p align="center">
-  <b>software engineer & systems builder • bsc (hons) computer science @ aston university</b>
+  <b>software engineer & systems builder • ongoing bsc (hons) computer science @ aston university</b>
 </p>
 
 ### about
