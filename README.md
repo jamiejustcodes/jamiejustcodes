@@ -36,6 +36,23 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3 align="left">🤖 <a href="https://github.com/jamiejustcodes/Relay">Relay — Autonomous Desktop AI Operating Agent</a></h3>
+      <p>Industrial-grade, local-first autonomous AI desktop operating layer built with <b>.NET 10 LTS</b> and <b>React 19</b>. Features dynamic ReAct reasoning loops, hierarchical DAG planning, zero-trust security sandboxing (DPAPI), tool orchestration, real-time SignalR duplex streaming, and <b>54 automated xUnit tests</b> verified via automated CI/CD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-10.0%20LTS-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20ReAct%20Loop-8b5cf6?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI%2FCD%20Tests-54%20Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite%20Audit-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/jamiejustcodes/Relay"><b>🔗 View Repository & Architecture on GitHub →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">⚡ <a href="https://thehirely.vercel.app">Hirely — AI Resume Scanner & Optimizer</a></h3>
       <p>Modern full-stack web application integrating <b>Google Gemini API</b> to analyze resumes against job descriptions, evaluate ATS compatibility, and generate real-time keyword optimizations.</p>
