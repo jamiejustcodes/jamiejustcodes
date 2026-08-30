@@ -1,11 +1,11 @@
 <h1 align="center">jamie the coder</h1>
 <p align="center">
-  <b>software engineer & systems builder • ongoing bsc (hons) computer science @ aston university</b>
+  <b>software engineer & systems builder - bsc (hons) computer science @ aston university</b>
 </p>
 
 ### about
 
-software engineer, systems builder & full-stack developer. studying bsc (hons) computer science @ **aston university** (distinction in t-level digital production, design & development). passionate about scalable backend architectures, high-performance web & mobile systems, and intelligent ai integrations.
+software engineer, systems builder & full-stack developer. studying bsc (hons) computer science @ **aston university** (distinction in t-level digital production, design & development). focused on scalable backend architectures, high-performance web & mobile systems, and clean software design.
 
 <p>
   <a href="https://jamiefolio.vercel.app"><img src="https://img.shields.io/badge/portfolio-jamiefolio.vercel.app-14b8a6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -24,11 +24,11 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
   </a>
 </p>
 
-- **languages:** `typescript` • `javascript (es6+)` • `c#` • `python` • `c++` • `sql (sql server)` • `html5` • `css3`
-- **frameworks & frontend:** `next.js 14` • `react` • `asp.net core mvc` • `tailwind css` • `framer motion`
-- **backend & ai:** `restful apis` • `google gemini api` • `entity framework core` • `stripe api` • `mvc pattern` • `ats analysis engines`
-- **databases:** `sql server` • `postgresql` • `sqlite` • `relational schema architecture`
-- **tools & platforms:** `vercel` • `git / github` • `vs code` • `visual studio` • `linux` • `windows` • `trello` • `agile/scrum`
+- **languages:** `typescript` - `javascript (es6+)` - `c#` - `python` - `c++` - `sql (sql server)` - `html5` - `css3`
+- **frameworks & frontend:** `next.js 14` - `react` - `asp.net core mvc` - `tailwind css` - `framer motion`
+- **backend & ai:** `restful apis` - `google gemini api` - `entity framework core` - `stripe api` - `mvc pattern` - `ats analysis engines`
+- **databases:** `sql server` - `postgresql` - `sqlite` - `relational schema architecture`
+- **tools & platforms:** `vercel` - `git / github` - `vs code` - `visual studio` - `linux` - `windows` - `trello` - `agile/scrum`
 
 ---
 
@@ -37,8 +37,8 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="left">🤖 <a href="https://github.com/jamiejustcodes/Relay">Relay — Autonomous Desktop AI Operating Agent</a></h3>
-      <p>Industrial-grade, local-first autonomous AI desktop operating layer built with <b>.NET 10 LTS</b> and <b>React 19</b>. Features dynamic ReAct reasoning loops, hierarchical DAG planning, zero-trust security sandboxing (DPAPI), tool orchestration, real-time SignalR duplex streaming, and <b>54 automated xUnit tests</b> verified via automated CI/CD.</p>
+      <h3 align="left"><a href="https://github.com/jamiejustcodes/Relay">Relay - Autonomous Desktop AI Agent</a></h3>
+      <p>Local-first autonomous AI desktop agent built with <b>.NET 10 LTS</b> and <b>React 19</b>. Features ReAct reasoning loops, hierarchical execution planning, DPAPI secret storage, tool execution, real-time SignalR duplex streaming, and <b>54 automated xUnit tests</b> verified via GitHub Actions CI/CD.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET-10.0%20LTS-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -48,14 +48,14 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
         <img src="https://img.shields.io/badge/SQLite%20Audit-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/jamiejustcodes/Relay"><b>🔗 View Repository & Architecture on GitHub →</b></a>
+        <a href="https://github.com/jamiejustcodes/Relay"><b>View Repository & Architecture on GitHub -></b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://thehirely.vercel.app">Hirely — AI Resume Scanner & Optimizer</a></h3>
-      <p>Modern full-stack web application integrating <b>Google Gemini API</b> to analyze resumes against job descriptions, evaluate ATS compatibility, and generate real-time keyword optimizations.</p>
+      <h3 align="left"><a href="https://thehirely.vercel.app">Hirely - AI Resume Scanner & Optimizer</a></h3>
+      <p>Full-stack web application integrating <b>Google Gemini API</b> to analyze resumes against job descriptions, evaluate ATS compatibility, and generate keyword suggestions.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -63,12 +63,12 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <p>
-        <a href="https://thehirely.vercel.app"><b>🔗 Live Demo: thehirely.vercel.app →</b></a>
+        <a href="https://thehirely.vercel.app"><b>Live Demo: thehirely.vercel.app -></b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🛍️ <a href="https://chakde-chi.vercel.app">Chakde Life — E-Commerce & Mobile Ecosystem</a></h3>
-      <p>Engineered a dedicated mobile application and full-stack e-commerce brand platform featuring dynamic product cataloging, responsive mobile-first UI, and integrated Stripe payments.</p>
+      <h3 align="left"><a href="https://chakde-chi.vercel.app">Chakde Life - E-Commerce & Mobile App</a></h3>
+      <p>Mobile application and full-stack e-commerce platform featuring dynamic product cataloging, responsive mobile-first UI, and integrated Stripe checkout.</p>
       <p>
         <img src="https://img.shields.io/badge/Mobile%20App-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
@@ -76,14 +76,14 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
         <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <p>
-        <a href="https://chakde-chi.vercel.app"><b>🔗 Live Demo: chakde-chi.vercel.app →</b></a>
+        <a href="https://chakde-chi.vercel.app"><b>Live Demo: chakde-chi.vercel.app -></b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🌱 <b>Agricultural E-Commerce Web Platform</b></h3>
-      <p>Multi-tier web platform with Entity Framework Core, role-based authorization (Admin vs. Producer), anti-forgery protection, dynamic basket workflows, and WCAG accessibility standards.</p>
+      <h3 align="left">Agricultural E-Commerce Web Platform</h3>
+      <p>Multi-tier web platform built with ASP.NET Core MVC, Entity Framework Core, role-based authorization (Admin vs. Producer), anti-forgery protection, dynamic basket workflows, and WCAG accessibility standards.</p>
       <p>
         <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -91,8 +91,8 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">📅 <b>Agile Booking Management System</b></h3>
-      <p>Role-based booking management tool engineered with an Agile/Scrum development team, featuring structured sprint task allocation in Trello, unit testing, and Git version control.</p>
+      <h3 align="left">Agile Booking Management System</h3>
+      <p>Role-based booking management tool built with an Agile team, featuring structured sprint task allocation in Trello, unit testing, and Git version control.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -118,5 +118,5 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 ---
 
 <p align="center">
-  <sub>crafted with care by <a href="https://github.com/jamiejustcodes">jamiejustcodes</a> • open to opportunities & collaborations</sub>
+  <sub>built by <a href="https://github.com/jamiejustcodes">jamiejustcodes</a> - open to opportunities & collaborations</sub>
 </p>
