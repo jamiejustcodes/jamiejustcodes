@@ -106,19 +106,7 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 
 ---
 
-### activity & metrics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamiejustcodes&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ffffff&hide_border=true&area=true" width="100%" alt="Jamie's GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiejustcodes&theme=dark&background=0d1117&border=1f2937&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiejustcodes&layout=compact&theme=dark&bg_color=0d1117&border_color=1f2937&title_color=38bdf8&text_color=e6edf3" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <sub>built by <a href="https://github.com/jamiejustcodes">jamiejustcodes</a> - open to opportunities & collaborations</sub>
 </p>
+
