@@ -10,7 +10,7 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 <p>
   <a href="https://jamiefolio.vercel.app"><img src="https://img.shields.io/badge/portfolio-jamiefolio.vercel.app-14b8a6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:jamiegallagher0607@gmail.com"><img src="https://img.shields.io/badge/email-jamiegallagher0607%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://thehirely.vercel.app"><img src="https://img.shields.io/badge/project-hirely.vercel.app-8b5cf6?style=flat-square&logo=google-gemini&logoColor=white" alt="Hirely" /></a>
+  <a href="https://github.com/jamiejustcodes/Relay"><img src="https://img.shields.io/badge/most%20recent%20project-relay-8b5cf6?style=flat-square&logo=github&logoColor=white" alt="Relay" /></a>
   <img src="https://img.shields.io/badge/location-birmingham%2C%20uk-0ea5e9?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
@@ -27,6 +27,7 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 - **languages:** `typescript` - `javascript (es6+)` - `c#` - `python` - `c++` - `sql (sql server)` - `html5` - `css3`
 - **frameworks & frontend:** `next.js 14` - `react` - `asp.net core mvc` - `tailwind css` - `framer motion`
 - **backend & ai:** `restful apis` - `google gemini api` - `entity framework core` - `stripe api` - `mvc pattern` - `ats analysis engines`
+- **testing & quality:** `ci/cd pipelines (github actions)` - `unit testing (xunit)` - `integration testing` - `black-box & white-box testing` - `regression testing` - `automated test matrices`
 - **databases:** `sql server` - `postgresql` - `sqlite` - `relational schema architecture`
 - **tools & platforms:** `vercel` - `git / github` - `vs code` - `visual studio` - `linux` - `windows` - `trello` - `agile/scrum`
 
