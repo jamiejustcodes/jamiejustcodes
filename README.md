@@ -40,11 +40,12 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
       <h3 align="left"><a href="https://github.com/jamiejustcodes/Relay">Relay - Autonomous Desktop AI Agent</a></h3>
       <p>Local-first autonomous AI desktop agent built with <b>.NET 10 LTS</b> and <b>React 19</b>. Features ReAct reasoning loops, hierarchical execution planning, DPAPI secret storage, tool execution, real-time SignalR duplex streaming, and <b>54 automated xUnit tests</b> verified via GitHub Actions CI/CD.</p>
       <p>
+        <a href="https://github.com/jamiejustcodes/Relay/actions/workflows/ci.yml"><img src="https://github.com/jamiejustcodes/Relay/actions/workflows/ci.yml/badge.svg" alt="Build & Test" /></a>
+        <img src="https://img.shields.io/badge/Tests-54%20Passing-brightgreen?style=flat-square&logo=xunit" alt="54 Tests Passing" />
         <img src="https://img.shields.io/badge/.NET-10.0%20LTS-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/React%2019-000000?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/AI%20ReAct%20Loop-8b5cf6?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI%2FCD%20Tests-54%20Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite%20Audit-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p>
