@@ -84,12 +84,17 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">Agricultural E-Commerce Web Platform</h3>
-      <p>Multi-tier web platform built with ASP.NET Core MVC, Entity Framework Core, role-based authorization (Admin vs. Producer), anti-forgery protection, dynamic basket workflows, and WCAG accessibility standards.</p>
+      <h3 align="left"><a href="https://github.com/jamiejustcodes/GFLHApp">Greenfield Local Hub (GFLHApp) - Agricultural E-Commerce</a></h3>
+      <p>ASP.NET Core 9.0 MVC multi-vendor agricultural co-operative e-commerce platform. Features multi-vendor order slicing, loyalty engine, Click &amp; Collect date rules, Natasha's Law allergen compliance, HMRC-compliant VAT invoices, and <b>46 automated xUnit tests</b> verified with GitHub Actions CI/CD.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <a href="https://github.com/jamiejustcodes/GFLHApp/actions/workflows/ci.yml"><img src="https://github.com/jamiejustcodes/GFLHApp/actions/workflows/ci.yml/badge.svg" alt="Build &amp; Test" /></a>
+        <img src="https://img.shields.io/badge/Tests-46%20Passing-brightgreen?style=flat-square&logo=xunit" alt="46 Tests Passing" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core%209.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23%2013-239120?style=flat-square&logo=csharp&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/jamiejustcodes/GFLHApp"><b>View Repository &amp; CI/CD on GitHub -&gt;</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
