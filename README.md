@@ -1,4 +1,4 @@
-﻿<h1 align="center">jamie the coder</h1>
+﻿<h1 align="center">jamie gallagher</h1>
 <p align="center">
   <b>software engineer & systems builder - bsc (hons) computer science @ aston university</b>
 </p>
