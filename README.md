@@ -1,4 +1,34 @@
-﻿<h1 align="center">jamie gallagher</h1>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jamiejustcodes/gif-terminal/main/output.gif"
+    alt="Terminal GIF"
+    width="1000"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="./github-cards.png"
+    alt="GitHub Stats"
+    width="1000"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-gitblock.svg"
+    alt="GitHub Graph"
+    width="1000"
+  >
+</p>
+
+---
+
+<details>
+<summary align="center"><b>🚀 Click to view Jamie's Bio, Tech Stack & Featured Projects</b></summary>
+<br>
+
+<h1 align="center">jamie gallagher</h1>
 <p align="center">
   <b>software engineer & systems builder - bsc (hons) computer science @ aston university</b>
 </p>
@@ -123,3 +153,5 @@ software engineer, systems builder & full-stack developer. studying bsc (hons) c
 <p align="center">
   <sub>built by <a href="https://github.com/jamiejustcodes">jamiejustcodes</a> - open to opportunities & collaborations</sub>
 </p>
+
+</details>
