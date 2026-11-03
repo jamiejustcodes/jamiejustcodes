@@ -55,7 +55,6 @@ jobs:
 
           STICKER_CONFIGS = [
               {"name": "DP.png", "x": 0, "y": 450, "width": 400, "height": 400},
-              {"name": "Among_Us.png", "x": 1075, "y": 20, "width": 175, "height": 175},
               {"name": "CEO.png", "x": 10, "y": -50, "width": 200, "height": 200},
               {"name": "Claude_Crab.jpeg", "x": 600, "y": 680, "width": 175, "height": 175},
               {"name": "Dino.png", "x": 410, "y": 660, "width": 175, "height": 175},
