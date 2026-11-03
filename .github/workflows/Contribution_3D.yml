@@ -110,7 +110,8 @@ jobs:
           git add profile-3d-contrib/
 
           if git commit -m "Update 3D contribution graph"; then
-            git push
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No changes to commit."
           fi
