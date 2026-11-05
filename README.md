@@ -1,25 +1,10 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/jamiejustcodes/gif-terminal/main/output.gif"
-    alt="Terminal GIF"
-    width="1000"
-  >
+  <img width="1200" height="628" alt="waves" src="https://github.com/user-attachments/assets/e387d719-17b6-45d1-8818-8f75c6a8cccf" />
 </p>
 
 <p align="center">
-  <img
-    src="./github-cards.png"
-    alt="GitHub Stats"
-    width="1000"
-  >
-</p>
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-gitblock.svg"
-    alt="GitHub Graph"
-    width="1000"
-  >
+  <i>静かに学び、着実に創る。</i><br/>
+  <sub>Learn quietly. Build consistently.</sub>
 </p>
 
 ---
