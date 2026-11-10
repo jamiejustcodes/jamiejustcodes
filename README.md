@@ -7,6 +7,12 @@
   <sub>Learn quietly. Build consistently.</sub>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="495" src="https://streak-stats.demolab.com?user=jamiejustcodes&theme=dark" alt="Jamie's GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 <details>
